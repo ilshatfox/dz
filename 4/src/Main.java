@@ -7,8 +7,8 @@ public class Main {
 //        FileTextProvider file = new FileTextProvider();
 //        String file2 = file.getText("1.txt");
 //        System.out.println(file2);
-        TextFilesSorted f = new TextFilesSorted();
-        f.processFilesFromFolder("txtFiles");
+//         TextFilesSorted f = new TextFilesSorted();
+//         f.processFilesFromFolder("txtFiles");
 
 
 
