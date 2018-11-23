@@ -1,13 +1,8 @@
-/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/ilsat/Yandex.Disk.localized/IPython/IlshatPython/python/z_helps_programs/MostTrading/main.py
-Что вы хотите сделать?
-1-Выйти
-2-Перейти в базу данных
-3-Спарсить данные
-4-Начать анализ
-5-Запустить анализ упешности
-6-Запустить анализ упешности2
-7-Запустить трейдинг7
-Введите id задачи1
-Введите длину цепочки10
-Введите значение успеха0.65
-Введите значение минимального опыта30
+fsdfg sdf
+sdfgs
+gtrg
+ertg
+fb
+fgd
+h
+tg
