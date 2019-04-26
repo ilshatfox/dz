@@ -1,0 +1,15 @@
+package brackets;
+
+public class Main {
+    public static void main(String[] args) {
+//        Stack s = new Stack(10);
+//        s.push('1');
+//        s.push('2');
+//        System.out.println(s.isEmpty());
+//        System.out.println(s.pop());
+//        System.out.println(s.pop());
+//        System.out.println(s.pop());
+
+        System.out.println(BracketsMain.bracketsAreCorrect("{{asdf(sdfasd)}}[]"));
+    }
+}
